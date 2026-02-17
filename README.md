@@ -7,7 +7,7 @@ This repository contains my CV prepared with LaTeX.
 👉 **[Open CV as PDF](https://ruveydeorman.github.io/Ruveyde_Orman_CV/)** 👈
 
 or direct PDF link:  
-[https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyda_Orman_CV.pdf](https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyda_Orman_CV.pdf)
+[https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyde_Orman_CV.pdf](https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyde_Orman_CV.pdf)
 
 ## 🛠️ Technologies
 - LaTeX
