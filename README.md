@@ -1,2 +1,15 @@
-# R-veyde_Orman_CV
-LaTeX Resume/CV
+# Rüveyde Orman - CV
+
+This repository contains my CV prepared with LaTeX.
+
+## 📄 View My CV
+
+👉 **[Open CV as PDF](https://ruveydeorman.github.io/Ruveyde_Orman_CV/)** 👈
+
+or direct PDF link:  
+[https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyda_Orman_CV.pdf](https://ruveydeorman.github.io/Ruveyde_Orman_CV/Ruveyda_Orman_CV.pdf)
+
+## 🛠️ Technologies
+- LaTeX
+- GitHub Actions (automatic compilation)
+- GitHub Pages (hosting)
